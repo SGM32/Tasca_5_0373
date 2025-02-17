@@ -4,10 +4,10 @@
        <title>Mi blog cientifico</title>
        <link>http://localhost:8000</link>
        <description>Este es un canal de noticias sobre ciencia y tecnología</description>
-       <atom:link href="https://sgm32.github.io/tarea-prueba/feed.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://sgm32.github.io/Tasca_5_0373/feed.xml" rel="self" type="application/rss+xml" />
        <item>
            <title>Un enorme volcán submarino podría hacer erupción de forma inminente</title>
-           <link>http://localhost:8000/noticia3.html</link>
+           <link>https://sgm32.github.io/Tasca_5_0373/noticia3.html</link>
            <description>En las profundidades del océano Pacífico, a unos 480 kilómetros de la costa de
            Oregón, yace un gigante que, aunque invisible a simple vista, alberga en sus entrañas un
            poder enorme</description>
@@ -19,7 +19,7 @@
        </item>
        <item>
            <title>Así es DeepSeek, la IA con la que China desafía a ChatGPT</title>
-           <link>http://localhost:8000/noticia2.html</link>
+           <link>https://sgm32.github.io/Tasca_5_0373/noticia2.html</link>
            <description>El asistente de inteligencia artificial chino es de código abierto y gratuito.
            Se ha convertido en la IA más descargada y ha provocado grandes pérdidas en las tecnológicas
            de Silicon Valley.</description>
@@ -31,7 +31,7 @@
        </item>
        <item>
            <title>La bioimpresión 3D, el futuro de los trasplantes de órganos</title>
-           <link>https://sgm32.github.io/tarea-prueba/noticia1.html</link>
+           <link>https://sgm32.github.io/Tasca_5_0373/noticia1.html</link>
            <description>Científicos anuncian técnica de bioimpresion 3D para sanar lesiones
             de cráneo reparando el tejido oseo y blando a la vez.</description>      
            <author>correo@example.com (Cristina Crespo Garay)</author>
