@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+       <title>Mi blog cientifico</title>
+       <link>http://localhost:8000</link>
+       <description>Este es un canal de noticias sobre ciencia y tecnología</description>
+       <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
+       <item>
+           <title>Un enorme volcán submarino podría hacer erupción de forma inminente</title>
+           <link>http://localhost:8000/noticia3.html</link>
+           <description>En las profundidades del océano Pacífico, a unos 480 kilómetros de la costa de
+           Oregón, yace un gigante que, aunque invisible a simple vista, alberga en sus entrañas un
+           poder enorme</description>
+           <author>correo@example.com (Redacción de MSN Noticias)</author>
+           <category>Ciencia</category>
+           <guid>https://www.msn.com/es-es/noticias/internacional/un-enorme-volc%C3%A1n-submarino-podr%C3%ADa-hacer-erupci%C3%B3n-de-forma-inminente/ar-AA1yjMVZ</guid>
+           <source url="https://www.msn.com">National Geographic</source>
+           <pubDate>Mon, 3 Feb 2025 11:46:00 +0100</pubDate>        
+       </item>
+       <item>
+           <title>Así es DeepSeek, la IA con la que China desafía a ChatGPT</title>
+           <link>http://localhost:8000/noticia2.html</link>
+           <description>El asistente de inteligencia artificial chino es de código abierto y gratuito.
+           Se ha convertido en la IA más descargada y ha provocado grandes pérdidas en las tecnológicas
+           de Silicon Valley.</description>
+           <author>correo@example.com (Redacción de EITB)</author>
+           <category>Tecnología</category>
+           <guid>https://www.eitb.eus/es/noticias/tecnologia/videos/detalle/9681373/video-asi-es-deepseek-ia-con-que-china-desafia-a-chatgpt/</guid>
+           <source url="https://www.eitb.eus">National Geographic</source>
+           <pubDate>Sat, 1 Feb 2025 07:33:00 +0100</pubDate>
+       </item>
+       <item>
+           <title>La bioimpresión 3D, el futuro de los trasplantes de órganos</title>
+           <link>http://localhost:8000/noticia1.html</link>
+           <description>Científicos anuncian técnica de bioimpresion 3D para sanar lesiones
+            de cráneo reparando el tejido oseo y blando a la vez.</description>      
+           <author>correo@example.com (Cristina Crespo Garay)</author>
+           <category>Ciencia</category>
+           <guid>https://www.nationalgeographic.es/ciencia/2021/05/la-bioimpresion-3d-el-futuro-de-los-trasplantes-de-organos</guid>
+           <source url="https://www.nationalgeographic.es">National Geographic</source>
+           <pubDate>Thu, 30 Jan 2025 10:00:00 +0100</pubDate>
+       </item>
+   </channel>
+</rss>
